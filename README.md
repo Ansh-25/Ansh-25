@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Ansh Gupta</h1>
+<h1 align="center">Hi 👋, I'm Ansh</h1>
 <h3 align="center">A self motivated programmer from India</h3>
 
 I'm currently an undergrad student at BITS Pilani! pursuing Computer Science major. I love Mathematics and now exploring the field of cryptography and AI. Besides I write poetry and play guitar , right know learning music production & composition.
