@@ -3,14 +3,13 @@
 
 I'm currently an undergrad student at BITS Pilani! pursuing Computer Science major. I love Mathematics and now exploring the field of cryptography and AI. Besides I write poetry and play guitar , right know learning music production & composition.
 
-<img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
-
 - 🌱 I’m currently learning **Django and Deep learning**
 - 👯 I’m looking to collaborate with other developers.
 - 🥅 2021 Goals: Contribute more to open source
 - ⚡ Fun fact: I love creating 3D animations using Blender
 
-<h3 align="left">Languages and Tools:</h3>
+<img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
+<h2 align="left">Languages and Tools:</h2>
 <p align="left"> 
 
 <a href="https://www.cprogramming.com/" target="_blank">
@@ -107,18 +106,7 @@ I'm currently an undergrad student at BITS Pilani! pursuing Computer Science maj
 <br />
 </p>
 
-### ⚙️ &nbsp;Some Analytics
-
-<p align="left">
- <img src="https://komarev.com/ghpvc/?username=ansh-25&label=Profile%20views&color=0e75b6&style=flat" alt="ansh-25" /> </p>
-<p align="center">
-<a href="https://github.com/AVS1508">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=ansh-25&show_icons=true&theme=nightowl&&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=ansh-25&layout=compact&langs_count=5&theme=nightowl"/>
-</a>
-</p>
-
-### Connect with me:
+<h2 align="left">Connect with me:</h2>
 
 <p align="left">
 <a href="https://www.linkedin.com/in/ansh-gupta-417829201/" target="blank"><img align="left" width="40px" src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
@@ -129,3 +117,15 @@ I'm currently an undergrad student at BITS Pilani! pursuing Computer Science maj
 
 </p>
 <br />
+<br />
+
+## &nbsp;Some Analytics ⚙️
+
+<p align="left">
+ <img src="https://komarev.com/ghpvc/?username=ansh-25&label=Profile%20views&color=0e75b6&style=flat" alt="ansh-25" /> </p>
+<p align="center">
+<a href="https://github.com/AVS1508">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=ansh-25&show_icons=true&theme=nightowl&&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=ansh-25&layout=compact&langs_count=5&theme=nightowl"/>
+</a>
+</p>
