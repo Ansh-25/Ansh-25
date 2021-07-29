@@ -3,7 +3,7 @@
 
 I'm currently an undergrad student at BITS Pilani! pursuing Computer Science major. I love Mathematics and now exploring the field of cryptography and AI. Besides I write poetry and play guitar , right know learning music production & composition.
 
-- 🌱 I’m currently learning **Django and Deep learning**
+- 🌱 I’m currently learning **Django and Pytorch**
 - 👯 I’m looking to collaborate with other developers.
 - 🥅 2021 Goals: Contribute more to open source
 - ⚡ Fun fact: I love creating 3D animations using Blender
