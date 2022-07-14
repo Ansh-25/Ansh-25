@@ -5,7 +5,7 @@ I'm currently an undergrad student at BITS Pilani! pursuing Computer Science maj
 
 - 🌱 I’m currently exploring **RL & Competitive Coding**
 - 👯 I’m looking to collaborate with other developers.
-- 🥅 2021 Goals: Contribute more to open source
+- 🥅 2022 Goals: Contribute more to open source
 - ⚡ Fun fact: I love creating 3D animations using Blender
 
 <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
